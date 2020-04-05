@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Money Tracker</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="jenis_uang_add">Jenis Uang</string>
+    <string name="pemasukan_add">Pemasukan</string>
+    <string name="pengeluaran_add">Pengeluaran</string>
+    <string name="nominal_add">Nominal</string>
+    <string name="tambah_keterangan_add">Tambah Keterangan</string>
+    <string name="btn_submit">Tambahkan Uang</string>
+    <string name="edit_keterangan_hint">Uang Jajan Bakso</string>
+    <string name="edit_nominal_hint">Rp.5000</string>
+    <string name="total_saldo">Total Saldo</string>
+    <string name="pemasukan_dashboard">Pemasukan</string>
+    <string name="pengeluaran_dashboard">Pengeluaran</string>
+    <string name="history_dashboard">Riwayat Transaksi</string>
+    <string name="btn_hapus">Hapus</string>
+    <string name="btn_edit">Edit</string>
+    <string name="update">Update</string>
+    <string name="splash_logo">Splash Logo</string>
+</resources>
